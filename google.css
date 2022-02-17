@@ -1,0 +1,52 @@
+/* ************** Navbar **************** */
+.navbargoogle{
+    display:inline-block;
+}
+/* ************** Box **************** */
+.box{
+display:inline-block;
+background-color: #EEEEEE;
+width: 1400px;
+text-align: center;
+}
+.box input, .box button {
+    margin-top: 10px;
+}
+/* ************** Box1-Box2-Box3 **************** */
+.box1{
+    background-color: rgb(126, 229, 218);
+    width: 35%;
+    height: 80px;
+    text-align: center;
+    padding: 3px;
+    margin-left:auto;
+    margin-top: 5px;
+    float: left;
+    text-align: center;
+}
+.box2{
+    background-color: #70CCC2;
+    width: 25%;
+    margin-left:3px;
+    height: 85px;
+    text-align: center;
+    margin-top: 5px;
+    float: left;
+}
+.box3{
+    background-color: #62B3AA;
+    width: 37.5%;
+    height: 85px;
+    margin-left:3px;
+    text-align: center; 
+    margin-top: 5px;
+    float: left;
+/* ************** Footer **************** */
+}
+.footerbox{
+    text-align: center;
+}
+.clear {
+    /* float değeri verdiğimiz divlerin altında kayma varsa kullan */
+    clear:both;
+}
